@@ -1,0 +1,11 @@
+
+: Сервер запущен
+
+admin: hello
+login: hi
+admin: how are you
+login: fine
+Сервер остановлен!
+
+: Сервер запущен
+
